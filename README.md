@@ -18,6 +18,8 @@ wget https://iotanalytics.unsw.edu.au/iottestbed/pcap/16-10-12.pcap --no-check-c
 wget https://iotanalytics.unsw.edu.au/resources/List_Of_Devices.txt --no-check-certificate
 ```
 
+Salve os pcaps que você baixar dentro do diretório ```TP3/pcaps/```. Devido ao limite de dados do GitHub, não conseguimos disponibilizar os arquivos pcaps.
+
 **2)** Instalar, configurar as ferramentas necessárias (Tshark, Tcpdump, Joy e dependências) 
 
 ```
