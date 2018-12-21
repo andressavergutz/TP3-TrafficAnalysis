@@ -2,7 +2,7 @@
  
 ## Análise do Tráfego de Dados de Dispositivos IoT
 
-Neste trabalho analisamos o tráfego de diferentes dispositivos IoT, incluindo sensores, monitores da qualidade do AR e câmeras, a fim de auxiliar na caracterização do tráfego e na identificação de atividades padrões. Por meio da caracterização e identificação do tráfego da rede é possível oferecer serviços de QoS, como prioridade de transmissão no meio de acesso, e serviços de segurança para dispositivos que possuem maiores requisitos de privacidade. Neste sentido, nesse TP3 nós realizamos uma Análise do Tráfego de Dados de Dispositivos IoT, chamado XXX, com base no artigo *"Classifying IoT Devices in Smart Environments Using Network Traffic Characteristics"*, que também realiza uma caracterização de tráfego. O XXX emprega um dados de tráfego de rede e utiliza diferentes ferramentas, como thsark e R, para realizar as análises.
+Neste trabalho analisamos o tráfego de diferentes dispositivos IoT, incluindo sensores, monitores da qualidade do AR e câmeras, a fim de auxiliar na caracterização do tráfego e na identificação de atividades padrões. Por meio da caracterização e identificação do tráfego da rede é possível oferecer serviços de QoS, como prioridade de transmissão no meio de acesso, e serviços de segurança para dispositivos que possuem maiores requisitos de privacidade. Neste sentido, nesse TP3 nós realizamos uma Análise do Tráfego de Dados de Dispositivos IoT, chamado AlIoT, com base no artigo *"Classifying IoT Devices in Smart Environments Using Network Traffic Characteristics"*, que também realiza uma caracterização de tráfego. O XXX emprega um dados de tráfego de rede e utiliza diferentes ferramentas, como thsark e R, para realizar as análises.
 
 
 ## Reproduzindo nossas análises
